@@ -22,7 +22,7 @@
 
 ## ✍ Short Description
 
-Web aplication developed withi react. This aplication consume from the one API where have they datas.
+Web aplication developed with react. This aplication consume from the one API where have they datas.
 
 ## 🧪 Technologies
 
